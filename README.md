@@ -1,3 +1,3 @@
-# notebook
+# R Notebook
 
-Test
+Experimenting with R Notebook.
